@@ -1,4 +1,4 @@
-package uk.co.lukewarlow.console.menu.kotlin
+package uk.lukewarlow.console.menu.kotlin
 
 class TestSubMenu : AbstractMenu("Welcome to the test sub menu.")
 {

@@ -1,4 +1,4 @@
-package uk.co.lukewarlow.console.menu.kotlin
+package uk.lukewarlow.console.menu.kotlin
 
 import java.util.*
 
